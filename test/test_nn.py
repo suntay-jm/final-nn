@@ -1,5 +1,5 @@
 import numpy as np
-from nn import NeuralNetwork
+from nn.nn import NeuralNetwork
 
 # define a small test architecture
 nn_arch = [
